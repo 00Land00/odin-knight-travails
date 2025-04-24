@@ -2,7 +2,7 @@
   "name": "@land_v/knight-travails",
   "version": "1.0.0",
   "description": "",
-  "private": true,
+  "main": "dist/bundle.js",
   "scripts": {
     "watch": "webpack --watch --config webpack.prod.js",
     "build": "webpack --config webpack.prod.js",
